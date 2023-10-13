@@ -8,8 +8,14 @@
 - GPA: 4/4
 
 ### Work Experience 
-compter engineering
-- project 1
-- project 2
+**Teaching Assistant** 	
+- •	SEP 2020 UNTIL DC 2020
+- Teaching Assistant, Isfahan University of Technology
+- "Computer Programming (C Programming Language)"
+
+- •	JAN 2021 UNTIL DC 2021
+- Teaching Assistant, Isfahan University of Technology
+- "Computer Programming (C++ Programming Language)"
+
   
 ### Projects
