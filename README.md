@@ -8,6 +8,13 @@
 - GPA: 4/4 
 
 
+## Programming Skills
+- C/C++
+- Python
+- SQL
+- MATLAB
+- HTML, CSS, Bootstrap 
+
 ## Projects & Experiences 
 ### Teaching Assistant 	
 
