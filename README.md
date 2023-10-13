@@ -10,9 +10,11 @@
 
 ### Work Experience 
 **Teaching Assistant** 	
-- Teaching Assistant, Isfahan University of Technology, "Computer Programming (C Programming Language)", (SEP 2020 UNTIL DC 2020)
 
-- Teaching Assistant, Isfahan University of Technology, "Computer Programming (C++ Programming Language)", (JAN 2021 UNTIL DC 2021)
+Fall, 2020: Computer Programming Fundamentals, Under Supervision of [Dr. Jalal Zahabi](https://scholar.google.com/citations?hl=en&user=xsY6VrEAAAAJ).
+Spring, 2021: Computer Programming Fundamentals, Under Supervision of [Dr. Jalal Zahabi](https://scholar.google.com/citations?hl=en&user=xsY6VrEAAAAJ).
+Summer, 2021: Computer Programming Fundamentals, Under Supervision of [Dr. Jalal Zahabi](https://scholar.google.com/citations?hl=en&user=xsY6VrEAAAAJ).
+Fall, 2021: Computer Programming Fundamentals, Under Supervision of [Dr. Jalal Zahabi](https://scholar.google.com/citations?hl=en&user=xsY6VrEAAAAJ).
 
   
 ### Projects
