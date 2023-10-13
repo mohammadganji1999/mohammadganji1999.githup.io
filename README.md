@@ -22,3 +22,7 @@
 - Project: Business process management (BPM)
 - 300-hour program, Grade achieved: 20/20 , Supervisor: [Dr.A.Basiri](https://scholar.google.com/citations?hl=en&user=Tz2cUoQAAAAJ)
 
+### Advanced programming course
+**Windows Application with C++ QT Framework: Designed and Implemented an QT application with C++ from scratch to offer house renting services to customers.**
+- C++
+- QT framework
