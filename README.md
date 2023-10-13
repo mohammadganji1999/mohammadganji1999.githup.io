@@ -1,9 +1,9 @@
 # mohammadganji1999.githup.io
 
 ### Education
-- B.S., Computer Engineering | Isfahan University of Technology (2018 - 2022) 
+- B.S., Computer Engineering, Isfahan University of Technology (2018 - 2022) 
 
-- Diploma, athematics and physics | Shahid Beheshti high school (2017) 
+- Diploma, athematics and physics, Shahid Beheshti high school (2017) 
 
 
 ### Work Experience 
