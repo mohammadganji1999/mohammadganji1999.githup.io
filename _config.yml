@@ -1,3 +1,4 @@
 title: Mohammad Ganji
 theme: jekyll-theme-minimal
 logo: /image/me.jpg
+excerpt_separator: "\n"
