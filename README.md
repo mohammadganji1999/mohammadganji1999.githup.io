@@ -1,9 +1,11 @@
 # mohammadganji1999.githup.io
 
 ### Education
-- Bachelor of science, Computer Engineering, Isfahan University of Technology, (2018 - 2022), GPA: 3.46/4 
+**Bachelor of science, Computer Engineering, Isfahan University of Technology, (2018 - 2022)**
+- GPA: 3.46/4 
 
-- Diploma, mathematics and physics, Shahid Beheshti high school, (2017), GPA: 4/4 
+**Diploma, mathematics and physics, Shahid Beheshti high school, (2017)**
+- GPA: 4/4 
 
 
 ### Work Experience 
