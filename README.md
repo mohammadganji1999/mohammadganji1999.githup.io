@@ -18,7 +18,7 @@
 
 ### Work Experience
 
-**Sunner, 2022: Internship, Center of Information Technology and Communication Isfahan University of Technology, Iran**
+**Summer, 2022: Internship, Center of Information Technology and Communication Isfahan University of Technology, Iran**
 - Project: Business process management (BPM)
 - 300-hour program, Grade achieved: 20/20 , Supervisor: [Dr.A.Basiri](https://scholar.google.com/citations?hl=en&user=Tz2cUoQAAAAJ)
 
