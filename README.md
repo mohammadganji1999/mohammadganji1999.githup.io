@@ -1,6 +1,6 @@
 # mohammadganji1999.githup.io
 
-### Education
+#### Education
 **Bachelor of science, Computer Engineering, Isfahan University of Technology, (2018 - 2022)**
 - GPA: 3.46/4 
 
@@ -8,7 +8,7 @@
 - GPA: 4/4 
 
 
-### Work Experience 
+#### Projects & Experiences 
 **Teaching Assistant** 	
 
 - Fall, 2020: Computer Programming Fundamentals, Under Supervision of [Dr. Jalal Zahabi](https://scholar.google.com/citations?hl=en&user=xsY6VrEAAAAJ).
