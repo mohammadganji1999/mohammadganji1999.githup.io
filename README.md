@@ -10,7 +10,7 @@
 ### Work Experience 
 **Teaching Assistant** 	
 - SEP 2020 UNTIL DC 2020
-"\n"
+\n
 Teaching Assistant, Isfahan University of Technology "Computer Programming (C Programming Language)"
 
 - JAN 2021 UNTIL DC 2021
