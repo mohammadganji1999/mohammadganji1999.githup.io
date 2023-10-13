@@ -2,9 +2,9 @@
 
 ## Basic Information
 - Birth: 23 May, 1999
-- Email:mohammadganji999@gmail.com
-- Phone:(+98) 936 905 2161
-- Address:Isfahan, Iran
+- Email: mohammadganji999@gmail.com
+- Phone: (+98) 936 905 2161
+- Address: Isfahan, Iran
   
 ## Education
 **Bachelor of science, Computer Engineering, Isfahan University of Technology, (2018 - 2022)**
