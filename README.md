@@ -22,6 +22,9 @@
 - Project: Business process management (BPM)
 - 300-hour program, Grade achieved: 20/20 , Supervisor: [Dr.A.Basiri](https://scholar.google.com/citations?hl=en&user=Tz2cUoQAAAAJ)
 
+### Computer network course
+**Network Packet Sniffer and Port Scanner with Python:Created a python program to sniff and analyze packets of diverse protocols and Developed an application to scan a range of ports of desired destination server with different packet types and reporting outcomes.**
+
 ### Advanced programming course
 **Windows Application with C++ QT Framework: Designed and Implemented an QT application with C++ from scratch to offer house renting services to customers.**
 - C++
