@@ -25,6 +25,7 @@
 
 ### B.Sc. Final Project
 **Software design for the application process of becoming a teaching assistant by students with Business Process Management System (BPMS)**
+
 A business process management system (BPMS) is a platform that manages and automates well-defined business processes. It creates an infrastructure that enhances company agility, making work faster and easier.A BPMS is a simple, intuitive tool that helps companies execute, manage, and improve business processes by identifying, modeling, automating, and analyzing business processes. It allows enterprises to collect data and use it to optimize key business processes.Business Process Management Software has also taken a new and enhanced form–iBPMS (i stands for ‘intelligent’). An iBPMS uses actionable, real-time insights from operations intelligence to improve the orchestration of adaptive business processes.
 ### Teaching Assistant 	
 
