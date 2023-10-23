@@ -50,3 +50,7 @@ Windows Application with C++ QT Framework: Designed and Implemented an QT applic
 
 ### Hospital Database Management System (DBMS)
 Hospital Database Management System (DBMS) is a SQL project designed to streamline and optimize the management of hospital operations.
+
+###  Implementing a secure banking system
+In this project, the goal is to design and implement a secure banking system. And This project consists of two parts. A program is written for each part. A program for the server and a program for the client. In this project, registration and entry processes, access control, encryption, key exchange are designed.
+
