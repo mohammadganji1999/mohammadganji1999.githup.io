@@ -47,3 +47,6 @@ Network Packet Sniffer and Port Scanner with Python:Created a python program to 
 Windows Application with C++ QT Framework: Designed and Implemented an QT application with C++ from scratch to offer house renting services to customers.
 - C++
 - QT framework
+
+### Hospital Database Management System (DBMS)
+Hospital Database Management System (DBMS) is a SQL project designed to streamline and optimize the management of hospital operations.
