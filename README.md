@@ -46,19 +46,19 @@ A business process management system (BPMS) is a platform that manages and autom
 - Project: Business process management (BPM)
 - 300-hour program, Grade achieved: 20/20 , Supervisor: [Dr.A.Basiri](https://scholar.google.com/citations?hl=en&user=Tz2cUoQAAAAJ)
 
-### Computer network course
+### [Computer network course](https://github.com/mohammadganji1999/Network-Packet-Sniffer-and-Port-Scanner-with-Python)
 Network Packet Sniffer and Port Scanner with Python:Created a python program to sniff and analyze packets of diverse protocols and Developed an application to scan a range of ports of desired destination server with different packet types and reporting outcomes.
 
-### Advanced programming course
+### [Advanced programming course](https://github.com/mohammadganji1999/advanced-programming-project)
 Windows Application with C++ QT Framework: Designed and Implemented an QT application with C++ from scratch to offer house renting services to customers.
 - C++
 - QT framework
 
-### Hospital Database Management System (DBMS)
+### [Hospital Database Management System (DBMS)](https://github.com/mohammadganji1999/Hospital-Management-Database-SQL)
 Hospital Database Management System (DBMS) is a SQL project designed to streamline and optimize the management of hospital operations.
 
-###  Implementing a secure banking system
+###  [Implementing a secure banking system](https://github.com/mohammadganji1999/Implementing-a-secure-banking-system)
 In this project, the goal is to design and implement a secure banking system. And This project consists of two parts. A program is written for each part. A program for the server and a program for the client. In this project, registration and entry processes, access control, encryption, key exchange are designed.
 
-###  Compiler construction using Flex and Bison
+###  [Compiler construction using Flex and Bison](https://github.com/mohammadganji1999/Compiler-Construction-using-Flex-and-Bison)
 In this project, a compiler for a hypothetical programming language has been designed and implemented. This compiler has been implemented using two languages, Bison and Flex. This compiler compiles the desired code by considering the three parts of lexical, syntactic and semantic analysis.
