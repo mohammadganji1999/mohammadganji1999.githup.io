@@ -19,7 +19,12 @@
 - Python
 - SQL
 - MATLAB
-- HTML, CSS, Bootstrap 
+- HTML, CSS, Bootstrap
+## Machine Learning libraries
+- Numpy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 ## Projects & Experiences 
 
